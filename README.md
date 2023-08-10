@@ -1,4 +1,4 @@
-# 🏆 This is my Trophy!!! 🏆
+# 🏆 This is my Trophies!!! 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=organpcysd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **organpcysd/organpcysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
